@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ahmed
-### Intro
+
 I've always been interested in technology. Following a stint as a mechanical engineer, I found my way back to technology and software.
 - 👀 I’m interested in picking up as much knowledge as I can with regards to software development and data/ML/AI.
 - 🌱 I’m currently building in Rust. Learning Go and Haskell. Have mainly used Python (std, Flask, Odoo, Pandas etc...), VB.NET, HTML, CSS and some SQL up to this point.
