@@ -6,6 +6,8 @@ I've always been interested in technology. Following a stint as a mechanical eng
 - 💞️ I’m looking to collaborate on Embedded, Data, ML, AI, CAE, automation projects, and anything Rust. 
 - 📫 How to reach me? mail me on ahmed.hagi@phasealpha.io
 
+### Connect with me:
+TODO!
 ### Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
