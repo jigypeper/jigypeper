@@ -7,7 +7,10 @@ I've always been interested in technology. Following a stint as a mechanical eng
 - 📫 How to reach me? mail me on ahmed.hagi@phasealpha.io
 
 ### Connect with me:
-TODO!
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmed-hagi-68075b89/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" /></a>
+</p>
+
 ### Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
