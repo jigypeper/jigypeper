@@ -9,7 +9,7 @@ I've always been interested in technology. Following a stint as a mechanical eng
 ### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-hagi-68075b89/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" /></a>
-  <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="mastadon" width="40" height="40" /></a>
+  <a href="https://hachyderm.io/@jigypeper"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="mastadon" width="40" height="40" /></a>
 </p>
 
 ### Languages and Tools:
