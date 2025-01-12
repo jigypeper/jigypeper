@@ -25,7 +25,7 @@ I'm a seasoned engineer with a passion for blending technology and innovation. W
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigypeper&theme=dracula&&hide=scss,html,css,jupyter%20notebook)](https://github.com/jigypeper/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigypeper&theme=dracula&&hide=scss,html,css,jupyter%20notebook)]
 
 
 <!---
