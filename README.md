@@ -22,8 +22,7 @@ I'm a seasoned engineer with a passion for blending technology and innovation. W
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" style="width: 40px; height: 40px; background-color: #c45508"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/haskell/haskell-original.svg" alt="haskell" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" alt="clang" width="40" height="40"/>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jigypeper&theme=dracula&&hide=scss,html,css,jupyter%20notebook)
